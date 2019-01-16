@@ -1,0 +1,2 @@
+# Python_ShipData
+Pythonを勉強した時に作ったものを一応成果物としておいておく
